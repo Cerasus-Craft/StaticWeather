@@ -1,4 +1,4 @@
-package fr.dams4k.staticweather;
+package fr.cerasus.staticweather;
 
 import org.bukkit.event.EventHandler;
 import org.bukkit.event.Listener;
